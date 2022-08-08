@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
+<title>newerasolutionsacademy.com- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
@@ -16,7 +16,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/log4.png" alt="" width="100">
+		<img src="images/log4.png" alt="" width="400">
 	</span>
 	<span style="font-weight: bold;">
 		NewEra, 
