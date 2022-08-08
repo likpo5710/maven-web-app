@@ -32,7 +32,7 @@
 <hr>
 <hr>
 <p align=center>NewEra - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://newerasolutionsacademy.com/">NewEra</a> </small></p>
+<p align=center><small>Copyrights 2017 by <a href="http://newerasolutionsacademy.com/">NewEra</a> </small></p>
 
 </body>
 </html>
